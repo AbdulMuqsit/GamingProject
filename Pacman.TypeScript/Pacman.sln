@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacman", "Pacman\Pacman.csproj", "{C5668BA7-EE78-430E-BE0A-DBC8FEE70E7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacman.JavaScript", "Pacman.JavaScript\Pacman.JavaScript.csproj", "{8D80C908-458B-4888-8394-F2863196DB65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C5668BA7-EE78-430E-BE0A-DBC8FEE70E7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5668BA7-EE78-430E-BE0A-DBC8FEE70E7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5668BA7-EE78-430E-BE0A-DBC8FEE70E7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D80C908-458B-4888-8394-F2863196DB65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D80C908-458B-4888-8394-F2863196DB65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D80C908-458B-4888-8394-F2863196DB65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D80C908-458B-4888-8394-F2863196DB65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
